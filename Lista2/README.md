@@ -1,18 +1,37 @@
-## Getting Started
+# Lista 2 - Exercícios de Programação Orientada a Objetos
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este diretório contém as soluções dos exercícios da Lista 2 da disciplina de Programação Orientada a Objetos (TADS 2025).
 
-## Folder Structure
+## Estrutura
 
-The workspace contains two folders by default, where:
+```
+Lista2/
+├── .gitignore      # Ignora arquivos compilados (*.class) e temporários
+├── README.md
+└── src/
+    ├── Questao1.java
+    ├── Questao10.java
+    ├── Questao16.java
+    └── Questao17.java
+```
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Como executar
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+1. Acesse o diretório `src`:
+    ```bash
+    cd Lista2/src
+    ```
+2. Compile o arquivo desejado:
+    ```bash
+    javac Questao1.java
+    ```
+3. Execute o programa:
+    ```bash
+    java Questao1
+    ```
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## Observações
 
-## Dependency Management
+- Cada arquivo `.java` corresponde a uma questão independente.
+- O `.gitignore` impede que arquivos compilados e temporários sejam versionados.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
