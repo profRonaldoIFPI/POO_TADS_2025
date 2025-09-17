@@ -119,6 +119,7 @@ java Questao1
 
 ---
 
-**Desenvolvido por:** Seu Nome  
+**Desenvolvido por:** Prof. Ronaldo Borges  
 **Curso:** Tecnologia em Análise e Desenvolvimento de Sistemas  
+**Disciplina:** Programação Orientada a Objetos
 **Ano:** 2025
