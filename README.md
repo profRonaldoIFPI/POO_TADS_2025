@@ -1,35 +1,13 @@
-# Programação Orientada a Objetos - Curso Tecnólogo em Análise e Desenvolvimento de Sistemas
+# Programação Orientada a Objetos - TADS 2025
 
 ## Sobre o Repositório
-
-Este repositório contém exemplos de aula e soluções de exercícios da disciplina **Programação Orientada a Objetos** do curso **Tecnologia em Análise e Desenvolvimento de Sistemas (TADS)** para o ano letivo de 2025.
+Este repositório contém as implementações dos exercícios das disciplinas de Programação Orientada a Objetos do curso de Tecnologia em Análise e Desenvolvimento de Sistemas (TADS) de 2025.
 
 ## Objetivo
-
-O objetivo deste repositório é estudar e praticar os conceitos fundamentais da **Programação Orientada a Objetos ** utilizando a linguagem **Java**. Através de exercícios práticos e exemplos de código, exploramos os pilares da POO:
-
-- **Encapsulamento**
-- **Herança**
-- **Polimorfismo**
-- **Abstração**
+Aplicar os pilares da Programação Orientada a Objetos utilizando a linguagem Java:
+- **Encapsulamento**: Proteção e organização dos dados
+- **Herança**: Reutilização e extensão de código
+- **Polimorfismo**: Flexibilidade e abstração
+- **Abstração**: Modelagem de conceitos do mundo real
 
 ## Estrutura do Repositório
-
-- `Lista1/`: Contém os exercícios da primeira lista de atividades
-  - `src/`: Código-fonte dos exercícios em Java
-  - `Lista Exercícios 1.pdf`: Enunciados dos exercícios
-
-## Tecnologias Utilizadas
-
-- **Linguagem**: Java
-- **Paradigma**: Programação Orientada a Objetos
-
-## Como Usar
-
-1. Clone o repositório
-2. Navegue até a pasta `src/` dentro de cada lista
-3. Compile e execute os arquivos Java conforme necessário
-
----
-
-Prof. Ronaldo Pires Borges.
