@@ -1,0 +1,14 @@
+@startuml
+    class Pessoa {
+        Nome: String
+        Idade: Integer
+        void apresentar()
+    }
+
+    class Carro {
+        Marca: String
+        Modelo: String
+        Ano: Integer
+        exibirInformacoes()
+    }
+@enduml
