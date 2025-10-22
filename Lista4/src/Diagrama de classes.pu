@@ -2,13 +2,21 @@
     class Pessoa {
         Nome: String
         Idade: Integer
-        void apresentar()
+        apresentar(): void
     }
-
     class Carro {
         Marca: String
         Modelo: String
         Ano: Integer
-        exibirInformacoes()
+        exibirInformacoes(): void
     }
+
+    class Produto { 
+        Nome: String
+        preco: float
+        quantidade: int
+        calcularValorTotal(): float
+    }
+
+    Produto <|-- Carro 
 @enduml
